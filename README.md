@@ -37,4 +37,4 @@ Files
 3. configure.html: room configuration interface.
 4. signaling-server/server.js: WebSocket signaling server.
 5. config.js: configurable signaling server URL.
-6. vercel.json: Vercel routing configuration.
+
