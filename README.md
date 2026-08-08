@@ -18,7 +18,7 @@ How to use
 
 Setup
 1. Install the signaling server dependencies:
-   - cd signaling-server or pointing to where you have stored my extracted zip towards 
+   - cd signaling-server (ensure its the full path there)
    - npm install
 2. Start the signaling server:
    - npm start
